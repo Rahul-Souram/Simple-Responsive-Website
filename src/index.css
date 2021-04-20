@@ -1,0 +1,33 @@
+#error {
+  display: grid;
+  justify-content: center;
+  margin-top: 150px;
+}
+#tech {
+  font-size: 30px;
+}
+.icons {
+  display: flex;
+  justify-content: space-around;
+}
+#style {
+  display: flex;
+  justify-content: center;
+  font-family: serif;
+  font-weight: bold;
+}
+#about {
+  display: flex;
+  justify-content: center;
+  font-family: serif;
+  font-weight: bold;
+}
+#about-card {
+  max-width: 750px;
+}
+.code {
+  font-size: 28px;
+}
+#cardef:hover {
+  padding: 30px;
+}
